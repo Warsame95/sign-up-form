@@ -9,3 +9,15 @@
     background: url(images/halie-west-25xggax4bSA-unsplash.jpg);
     background-size: cover;
 }
+
+.form-section {
+    width: 60vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form-section>div{
+    flex: 1;
+}
