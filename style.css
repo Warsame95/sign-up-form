@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    
+}
+
+.side-bar{
+    width: 40vw;
+    height: 100vh;
+    background: url(images/halie-west-25xggax4bSA-unsplash.jpg);
+    background-size: cover;
+}
