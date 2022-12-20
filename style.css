@@ -21,3 +21,7 @@
 .form-section>div{
     flex: 1;
 }
+
+fieldset{
+    border: none;
+}
