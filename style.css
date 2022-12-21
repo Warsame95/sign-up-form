@@ -24,4 +24,9 @@
 
 fieldset{
     border: none;
+    display: flex;
+}
+
+input{
+    display: block;
 }
