@@ -27,6 +27,10 @@ fieldset{
     display: flex;
 }
 
+label{
+    text-transform: uppercase;
+}
+
 input{
     display: block;
 }
