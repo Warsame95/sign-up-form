@@ -8,6 +8,7 @@
     height: 100vh;
     background: url(images/halie-west-25xggax4bSA-unsplash.jpg);
     background-size: cover;
+    margin-right: 30px;
 }
 
 .form-section {
@@ -43,11 +44,12 @@ input{
 }
 
 button{
+    font-weight: bold;
     appearance: none;
     border: none;
     box-shadow: 1px 1px 3px black;
     border-radius: 3px;
-    padding: 10px;
+    padding: 10px 50px;
     color: white;
     background-color: #596D48;
 }
