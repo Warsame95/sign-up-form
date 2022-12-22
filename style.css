@@ -25,10 +25,7 @@
 fieldset{
     border: none;
     display: flex;
-}
-
-fieldset > div {
-    margin-left: 30px;
+    gap: 30px;
 }
 
 label{
@@ -42,4 +39,14 @@ input{
     height: 20px;
     border: 1px solid lightgrey;
     border-radius: 3px;
+}
+
+button{
+    appearance: none;
+    border: none;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 3px;
+    padding: 10px;
+    color: white;
+    background-color: #596D48;
 }
