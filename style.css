@@ -23,6 +23,10 @@
     flex: 1;
 }
 
+.description{
+    padding: 70px 0px;
+}
+
 fieldset{
     border: none;
     padding: 0px 0px;
